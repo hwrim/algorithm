@@ -1,3 +1,5 @@
+package 프로그래머스.step1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,3 +1,5 @@
+package 프로그래머스.step1;
+
 public class 숫자문자열과영단어 {
     public static void main(String[] args) {
         System.out.println(solution("1zerotwozero3"));
