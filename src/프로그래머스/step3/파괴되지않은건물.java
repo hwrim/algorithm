@@ -29,7 +29,6 @@ public class 파괴되지않은건물 {
             int r2 = arr[3];
             int c2 = arr[4];
             int type = arr[5] * (arr[0] == 1 ? -1 : 1);
-            System.out.println(type);
             map[r1][c1] += type;
             map[r1][c2 + 1] += (type * -1);
             map[r2 + 1][c1] += (type * -1);
